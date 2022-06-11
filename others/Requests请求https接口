@@ -1,0 +1,7 @@
+//Requests请求https接口
+1、可以直接关闭验证ssl证书，在发送请求时把验SSL证书关掉， 设置verify为False
+2、可以直接配置证书路径，cert=“ ../cert/test.pem”
+
+
+
+
